@@ -1,7 +1,6 @@
 # goapi
 整理golang api层相关技术
-go build
-./goapi
+go build && ./goapi
 
 
 
